@@ -45,3 +45,8 @@ const DataSchema = new Schema(
 ## Twitter API
 
 The Computeron application implements a Twitter API client for the required API portion of the project. It is used to fetch tweets that are associated with the query, `Computer parts`. Then the urls for these tweets are put together to form iframes at the bottom of the page to give a look at the tweet from the Computeron website. The Twitter API uses can be seen in [computeron.js](https://github.com/MattRoumo27/Computeron/blob/master/FinalProjectImplementation/backend/routes/computeron.js) and [showTweets.js](https://github.com/MattRoumo27/Computeron/blob/master/FinalProjectImplementation/frontend/src/components/showTweets.js).
+
+## License
+
+Copyright © 2021 [Matt Roumeliotis](https://github.com/MattRoumo27)  
+This project is [MIT](https://github.com/MattRoumo27/Computeron/blob/master/LICENSE) licensed
